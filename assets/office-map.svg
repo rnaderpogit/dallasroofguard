@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">DallasRoofGuard office map</title>
+  <desc id="desc">Stylized map locating the DallasRoofGuard office near North Central Expressway in Dallas.</desc>
+  <rect width="800" height="500" rx="26" fill="#f8f6f3"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M42 418C178 332 261 340 357 264s188-101 401-64" stroke="#ded8cf" stroke-width="34"/>
+    <path d="M42 418C178 332 261 340 357 264s188-101 401-64" stroke="#fff" stroke-width="22"/>
+    <path d="M515-20c-39 123-46 223-8 310s29 154-9 230" stroke="#ded8cf" stroke-width="48"/>
+    <path d="M515-20c-39 123-46 223-8 310s29 154-9 230" stroke="#fff" stroke-width="30"/>
+    <path d="M-20 116c142 14 244 55 354 138s260 175 486 176" stroke="#e8e2da" stroke-width="14"/>
+    <path d="M178-20c11 112 31 211 88 309s82 154 89 231" stroke="#e8e2da" stroke-width="14"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#6b6258" font-size="16">
+    <text x="536" y="90" transform="rotate(8 536 90)">N Central Expy</text>
+    <text x="83" y="370" transform="rotate(-28 83 370)">Lovers Lane</text>
+    <text x="56" y="104">University Park</text>
+    <text x="603" y="447">Lake Highlands</text>
+  </g>
+  <g transform="translate(473 246)">
+    <path fill="#c2410c" d="M0-55c31 0 55 24 55 55 0 42-55 89-55 89S-55 42-55 0c0-31 24-55 55-55Z"/>
+    <path fill="#fff" d="m-25 2 25-21L25 2l-6 7L0-7-19 9l-6-7Z"/>
+    <path fill="#fff" d="M-15 8 0-5l15 13v18H4V13h-8v13h-11V8Z"/>
+  </g>
+  <g transform="translate(38 30)">
+    <rect width="310" height="82" rx="18" fill="#1b1816"/>
+    <text x="22" y="31" fill="#b88746" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.7">DALLASROOFGUARD</text>
+    <text x="22" y="58" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">8350 N Central Expy, Suite 400</text>
+  </g>
+</svg>

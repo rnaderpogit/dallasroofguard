@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 72" role="img" aria-labelledby="title desc">
+  <title id="title">DallasRoofGuard</title>
+  <desc id="desc">Roof shield logo and DallasRoofGuard wordmark</desc>
+  <g transform="translate(4 4) scale(.95)">
+    <path fill="#c2410c" d="M32 3 57 13v17c0 15.8-10 25.5-25 31C17 55.5 7 45.8 7 30V13L32 3Z"/>
+    <path fill="#fff" d="m15 29 17-14 17 14-4.2 5L32 23.4 19.2 34 15 29Z"/>
+    <path fill="#fff" d="M21 32.5 32 23l11 9.5V45H34.8V34.5h-5.6V45H21V32.5Z" opacity=".96"/>
+  </g>
+  <text x="76" y="46" fill="#1b1816" font-family="Arial, Helvetica, sans-serif" font-size="34" letter-spacing="-1">Dallas<tspan font-weight="700">RoofGuard</tspan></text>
+</svg>

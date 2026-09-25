@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Dallas–Fort Worth service area</title>
+  <desc id="desc">Stylized regional map showing the DallasRoofGuard service area across Dallas, Plano, Frisco, McKinney, Richardson, Garland, Irving, and Arlington.</desc>
+  <rect width="800" height="600" rx="28" fill="#f8f6f3"/>
+  <g fill="none" stroke="#ded8cf" stroke-width="8" stroke-linecap="round">
+    <path d="M-20 430C135 380 230 392 365 327S630 160 835 139"/>
+    <path d="M75 635C175 510 260 408 337 300S455 115 492-30"/>
+    <path d="M-25 180C145 208 250 250 370 317s245 141 460 159"/>
+    <path d="M205-20c15 165 46 278 132 347s179 132 206 295"/>
+  </g>
+  <g fill="none" stroke="#c2410c" stroke-width="3" stroke-dasharray="8 10" opacity=".72">
+    <path d="M110 410C205 325 276 222 385 154s204-70 304-14"/>
+    <path d="M153 474c122-64 231-73 339-28s173 39 247-13"/>
+  </g>
+  <path fill="#c2410c" fill-opacity=".1" stroke="#c2410c" stroke-width="3" d="M206 452 153 363l32-119 96-106 133-58 142 25 104 83 37 126-42 117-113 77-153 18-126-26Z"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#554d45">
+    <g transform="translate(395 349)"><circle r="13" fill="#c2410c"/><circle r="5" fill="#fff"/><text x="20" y="7" font-size="25" font-weight="700" fill="#1b1816">Dallas</text></g>
+    <g transform="translate(371 225)"><circle r="8" fill="#b88746"/><text x="14" y="6">Plano</text></g>
+    <g transform="translate(339 157)"><circle r="8" fill="#b88746"/><text x="14" y="6">Frisco</text></g>
+    <g transform="translate(457 143)"><circle r="8" fill="#b88746"/><text x="14" y="6">McKinney</text></g>
+    <g transform="translate(464 268)"><circle r="8" fill="#b88746"/><text x="14" y="6">Richardson</text></g>
+    <g transform="translate(540 329)"><circle r="8" fill="#b88746"/><text x="14" y="6">Garland</text></g>
+    <g transform="translate(281 359)"><circle r="8" fill="#b88746"/><text x="-62" y="-12">Irving</text></g>
+    <g transform="translate(284 472)"><circle r="8" fill="#b88746"/><text x="-30" y="31">Arlington</text></g>
+  </g>
+  <g transform="translate(54 50)">
+    <rect width="226" height="70" rx="16" fill="#1b1816"/>
+    <path fill="#c2410c" d="M35 12 57 21v15c0 14-9 22-22 27-13-5-22-13-22-27V21l22-9Z"/>
+    <path fill="#fff" d="m22 36 13-11 13 11-3 4-10-8-10 8-3-4Z"/>
+    <text x="75" y="31" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.5">SERVICE AREA</text>
+    <text x="75" y="53" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Dallas–Fort Worth</text>
+  </g>
+</svg>
